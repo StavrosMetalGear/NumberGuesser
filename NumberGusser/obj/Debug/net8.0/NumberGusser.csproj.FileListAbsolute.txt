@@ -1,0 +1,14 @@
+C:\Users\stavr\source\repos\NumberGusser\obj\Debug\net8.0\NumberGusser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stavr\source\repos\NumberGusser\obj\Debug\net8.0\NumberGusser.AssemblyInfoInputs.cache
+C:\Users\stavr\source\repos\NumberGusser\obj\Debug\net8.0\NumberGusser.AssemblyInfo.cs
+C:\Users\stavr\source\repos\NumberGusser\obj\Debug\net8.0\NumberGusser.csproj.CoreCompileInputs.cache
+C:\Users\stavr\source\repos\NumberGusser\bin\Debug\net8.0\NumberGusser.exe
+C:\Users\stavr\source\repos\NumberGusser\bin\Debug\net8.0\NumberGusser.deps.json
+C:\Users\stavr\source\repos\NumberGusser\bin\Debug\net8.0\NumberGusser.runtimeconfig.json
+C:\Users\stavr\source\repos\NumberGusser\bin\Debug\net8.0\NumberGusser.dll
+C:\Users\stavr\source\repos\NumberGusser\bin\Debug\net8.0\NumberGusser.pdb
+C:\Users\stavr\source\repos\NumberGusser\obj\Debug\net8.0\NumberGusser.dll
+C:\Users\stavr\source\repos\NumberGusser\obj\Debug\net8.0\refint\NumberGusser.dll
+C:\Users\stavr\source\repos\NumberGusser\obj\Debug\net8.0\NumberGusser.pdb
+C:\Users\stavr\source\repos\NumberGusser\obj\Debug\net8.0\NumberGusser.genruntimeconfig.cache
+C:\Users\stavr\source\repos\NumberGusser\obj\Debug\net8.0\ref\NumberGusser.dll
